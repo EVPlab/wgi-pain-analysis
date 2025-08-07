@@ -94,7 +94,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 6. Repository and Citation
 
-> https://github.com/EVPlab/gi-pain-analysis
+> https://github.com/EVPlab/wgi-pain-analysis
 
 If used in a publication, please cite as:
 
