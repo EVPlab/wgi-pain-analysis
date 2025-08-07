@@ -68,11 +68,11 @@ install.packages("doParallel")
 
 | Script | Purpose |
 |--------|---------|
-| Figure | One |
+| Figure One |
 | `Code_and_Split.py` | Preprocesses and splits UK Biobank data for modelling|
 | `GI_nested_model.py` | Computes WGI |
 | `GI_hormones.py` | Correlation Between WGI and Hormones |
-| Figure | Two and Three |
+| Figures Two and Three |
 | `bodysite_sexdifference.py` | Analyzes odds ratios for different pain body sites by sex |
 | `sex_diffs_dx.py` | Analyzes odds ratios for different pain diagnoses by sex |
 | `UKB_OR.py` | Generates odds ratios for WGI relationship with pain variables from UK Biobank dataset |
@@ -80,7 +80,7 @@ install.packages("doParallel")
 | `OR_ave_nosex.py` | Aggregates odds ratios without sex stratification |
 | `OR_ave_sexed.py` | Aggregates odds ratios with sex stratification |
 | `Auto_Mediation.r` | Causal mediation analysis to invest WGI role in longitudinal sex differences in pain outcomes |
-| Figure | Two and Three |
+| Figure Five |
 | `multilinearmodel_meno.py` | Multilinear Model predicting nociplastic pain conditions |
 
 Typical run time for scripts are under 5 minutes
