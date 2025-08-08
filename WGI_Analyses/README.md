@@ -79,7 +79,7 @@ install.packages("doParallel")
 | `nociplastic_epq_final.py` | Models nociplastic pain using EPQ variables |
 | `OR_ave_nosex.py` | Aggregates odds ratios without sex stratification |
 | `OR_ave_sexed.py` | Aggregates odds ratios with sex stratification |
-| `Auto_Mediation.r` | Causal mediation analysis to invest WGI role in longitudinal sex differences in pain outcomes |
+| `Auto_Mediation.r` | Causal mediation analysis to investigate WGI's mediating role in longitudinal sex differences in pain outcomes |
 | Figure Five |
 | `multilinearmodel_meno.py` | Multilinear Model predicting nociplastic pain conditions |
 
