@@ -84,7 +84,6 @@ install.packages("doParallel")
 | `multilinearmodel_meno.py` | Multilinear Model predicting nociplastic pain conditions |
 
 Typical run time for scripts are under 5 minutes
----
 
 note: code for figure 4 is not included in this repository as the analyses performed for the production of said figure matches almost exactly the code used for the analysis of the UK Biobank cohort with feature names changed.
 
